@@ -32,8 +32,11 @@ Defaulting State
 Testing will occur during and after the development phase to ensure that each function operates correctly. The testing will involve simulations before transferring the system onto a physical drone, using both off-board computations and eventual direct drone implementation. This phase also includes debugging and optimizing the code for smooth performance.
 Finally, the deployment phase will focus on finalizing the system, ensuring it meets all functional and performance requirements. During this phase, the project will be documented, tested in real-world scenarios, and prepared for final delivery and presentation.
 Task Assignment and Roles
+  
 •	Rafat Alam: Responsible for coding, testing, designing and implementing algorithms, simulating the system, and contributing to documentation.
+
 •	Abdulmohsen Alzahrani: Also tasked with coding, leads the testing process, implementing, simulating the project, and writing documentation.
+
 •	Mohammed Bafageh: Oversees the documentation, analysis algorithms acts as the primary debugger, optimizes code, and testing.
 </p>
 
